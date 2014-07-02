@@ -20,9 +20,10 @@ Completed programs:
      15.Reverse number
      16.Palindrome number
      17.Print Pattern
+     18.Diamond
 
 Pending Programs:
-     18.Diamond
+     
      19.Prime numbers
      20.Find armstrong number
      21.Generate armstrong number
