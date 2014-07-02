@@ -22,10 +22,10 @@ Completed programs:
      17.Print Pattern
      18.Diamond
      19.Prime numbers
+     20.Find armstrong number
 
 Pending Programs:
      
-     20.Find armstrong number
      21.Generate armstrong number
      22.Fibonacci series
      23.Print floyd's triangle
