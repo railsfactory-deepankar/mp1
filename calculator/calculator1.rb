@@ -13,7 +13,7 @@ while true
  	when "mul"
 	puts "Multiplication of #{a} and #{b} = #{a * b}"
  	when "div"
-	puts "Division of #{a} and #{b} = #{a / b}"
+	puts "Division of #{a} and #{b} = #{a.to_f / b}"
  	else
  	puts "Enter the right choise"
  	end
