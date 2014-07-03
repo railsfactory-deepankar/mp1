@@ -26,10 +26,11 @@ Completed programs:
      21.Generate armstrong number
      22.Fibonacci series
      23.Print floyd's triangle
+     24.Print pascal triangle
 
 Pending Programs:
     
-     24.Print pascal triangle
+    
      25.Addition using pointers
      26.Maximum element in array
      27.Minimum element in array
