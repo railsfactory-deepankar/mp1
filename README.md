@@ -28,11 +28,11 @@ Completed programs:
      23.Print floyd's triangle
      24.Print pascal triangle
      26.Maximum element in array
+     27.Minimum element in array
 Pending Programs:
     
     
      25.Addition using pointers
-     27.Minimum element in array
      28.Linear search
      29.Binary search
      30.Reverse array
