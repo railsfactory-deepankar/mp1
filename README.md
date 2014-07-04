@@ -29,14 +29,15 @@ Completed programs:
      24.Print pascal triangle
      26.Maximum element in array
      27.Minimum element in array
-Pending Programs:
-    
-    
-     25.Addition using pointers
      28.Linear search
      29.Binary search
      30.Reverse array
      31.Insert element in array
+
+Pending Programs:
+    
+    
+     25.Addition using pointers
      32.Delete element from array
      33.Merge arrays
      34.Bubble sort
