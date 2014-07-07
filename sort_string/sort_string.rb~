@@ -1,0 +1,5 @@
+puts "Enter the string"
+i = gets.chomp.to_s
+i.chr.sort
+puts "#{i}"
+
