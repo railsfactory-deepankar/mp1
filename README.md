@@ -33,11 +33,6 @@ Completed programs:
      29.Binary search
      30.Reverse array
      31.Insert element in array
-
-Pending Programs:
-    
-    
-     25.Addition using pointers
      32.Delete element from array
      33.Merge arrays
      34.Bubble sort
@@ -45,6 +40,13 @@ Pending Programs:
      36.Selection sort
      37.Add matrices
      38.Subtract matrices
+     40.Multiply two matrices
+
+Pending Programs:
+    
+    
+     25.Addition using pointers
+     
      39.Transpose matrix
      40.Multiply two matrices
      41.Print string
