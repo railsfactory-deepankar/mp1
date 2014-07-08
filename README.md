@@ -66,9 +66,9 @@ Completed programs:
      64.Print date
      65.Get IP address
      49.Delete vowels
+     52.Remove spaces
 Pending Programs:
     
     
      25.Addition using pointers
-     52.Remove spaces
      66.Shutdown computer
