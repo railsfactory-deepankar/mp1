@@ -71,7 +71,7 @@ Pending Programs:
      25.Addition using pointers
      
      
-     48.String to integer
+     
      49.Delete vowels
      
      52.Remove spaces
