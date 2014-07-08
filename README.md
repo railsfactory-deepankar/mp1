@@ -65,15 +65,10 @@ Completed programs:
      63.Add complex numbers
      64.Print date
      65.Get IP address
+     49.Delete vowels
 Pending Programs:
     
     
      25.Addition using pointers
-     
-     
-     
-     49.Delete vowels
-     
      52.Remove spaces
-     
      66.Shutdown computer
