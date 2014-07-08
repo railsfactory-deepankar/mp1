@@ -41,12 +41,6 @@ Completed programs:
      37.Add matrices
      38.Subtract matrices
      40.Multiply two matrices
-
-Pending Programs:
-    
-    
-     25.Addition using pointers
-     
      39.Transpose matrix
      40.Multiply two matrices
      41.Print string
@@ -56,11 +50,8 @@ Pending Programs:
      45.Concatenate strings
      46.Reverse string
      47.Find palindrome
-     48.String to integer
-     49.Delete vowels
      50.C substring
      51.Sort a string
-     52.Remove spaces
      53.Change case
      54.Swap strings
      55.Character's frequency
@@ -74,4 +65,15 @@ Pending Programs:
      63.Add complex numbers
      64.Print date
      65.Get IP address
+Pending Programs:
+    
+    
+     25.Addition using pointers
+     
+     
+     48.String to integer
+     49.Delete vowels
+     
+     52.Remove spaces
+     
      66.Shutdown computer
